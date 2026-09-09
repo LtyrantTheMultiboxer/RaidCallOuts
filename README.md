@@ -4,8 +4,6 @@ Raid Callouts is a small World of Warcraft 3.3.5 addon created by **xLT69x**
 for raid leaders and assistants. It creates a futuristic blue, movable panel
 of one-click raid warning buttons and includes a draggable minimap button.
 
-<img width="252" height="222" alt="RaidCallOuts Frame" src="https://github.com/user-attachments/assets/714a3362-2002-480f-bbf7-dcde3bcfd6ed" />
-
 ## Install
 
 1. Download or copy the `RaidCallouts` folder.
@@ -63,11 +61,6 @@ or unlock the panel, or drag it to reposition it around the minimap.
 
 Type `/rc config` to open the standalone Raid Callouts configuration window.
 It does not depend on Blizzard's Interface Options window.
-
-<img width="635" height="535" alt="RaidCallouts config3" src="https://github.com/user-attachments/assets/dbe73782-f200-41ce-9502-fcd066fee5b9" />
-<img width="637" height="540" alt="RaidCallouts config2" src="https://github.com/user-attachments/assets/eee5bac2-a834-41ae-b4ff-ebf436681e45" />
-<img width="642" height="540" alt="RaidCallouts config1" src="https://github.com/user-attachments/assets/20b4a841-c9c5-4d32-b145-5d66bd1f4b84" />
-
 
 The blue configuration panel includes:
 

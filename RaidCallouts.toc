@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff22d3ffRaid Callouts|r
+## Notes: One-click raid warning callouts for raid leaders and assistants.
+## Author: xLT69x
+## X-Credits: Created by xLT69x
+## Version: 1.2.2
+## SavedVariables: RaidCalloutsDB
+
+RaidCallouts.lua
+RaidCallouts_Config.lua
